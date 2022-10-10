@@ -16,7 +16,12 @@
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Twitter Badge"/>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white" alt="Git Badge"/>
 </div>
+
+📊 My statistics
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juasesan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 juasesan/juasesan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
