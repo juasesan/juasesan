@@ -1,6 +1,16 @@
-<h1 align="center">
-  👋 Hi, I’m @juasesan.
-</h1>
+<div align="center">
+
+  ![portada](https://user-images.githubusercontent.com/51239155/197236033-62e22011-1724-4710-8311-3d42c1801552.png)
+  
+  <a href="https://www.linkedin.com/in/juasesan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/juasesan/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+</div>
+
 
 🧑🏽 About me:
 ---
