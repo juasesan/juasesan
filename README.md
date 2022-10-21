@@ -2,7 +2,6 @@
   👋 Hi, I’m @juasesan.
 </h1>
 
-
 🧑🏽 About me:
 ---
 
@@ -16,7 +15,10 @@
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Twitter Badge"/>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-green?style=for-the-badge&logo=Jupyter&logoColor=black" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white" alt="MySql Badge"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-lightblue?style=for-the-badge&logo=RaspberryPi&logoColor=red" alt="Jupyter Badge"/>
+  
 </div>
 
 📊 My statistics
