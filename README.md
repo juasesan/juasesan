@@ -31,6 +31,14 @@
   
 </div>
 
+📝 My projects
+---
+Here are some of the best projects I've made to show my skills and keep learning:
+- <a href="https://github.com/juasesan/Ecuador_exportations_analysis">Analysis of Ecuador exportations using public access government data.</a>
+- <a href="https://github.com/Taws-Espol/camera_recognition">Drowsiness detection system with Deep Learning using Tensorflow and OpenCV.</a>
+- <a href="https://github.com/juasesan/MLP-cancer-classification">Cancer tumor classification with scikit-learn ML models.</a>
+- <a href="https://github.com/juasesan/RedFlag_analysis">Red flags analysis of ecuadorian procurement procedures using K-means clustering.</a>
+
 📊 My statistics
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juasesan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
