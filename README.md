@@ -34,6 +34,7 @@
 📝 My projects
 ---
 Here are some of the best projects I've made to show my skills and keep learning:
+- <a href="https://github.com/sofia604/Transformers_Torvis">Paper project: Wind turbine fault prediction with Transformer Neural Networks.</a>
 - <a href="https://github.com/juasesan/Ecuador_exportations_analysis">Analysis of Ecuador exportations using public access government data.</a>
 - <a href="https://github.com/Taws-Espol/camera_recognition">Drowsiness detection system with Deep Learning using Tensorflow and OpenCV.</a>
 - <a href="https://github.com/juasesan/MLP-cancer-classification">Cancer tumor classification with scikit-learn ML models.</a>
