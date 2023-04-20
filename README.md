@@ -15,7 +15,7 @@
 🧑🏽 About me:
 ---
 
-- 💻 I am a Mechatronics Engineering student from Ecuador.
+- 💻 I am a Mechatronics Engineer from Ecuador.
 - Data Scientist junior, problem-solving using automation, team player and communication are some of the skills I am currently working into. 
 - I’m looking to collaborate on Data Science and Machine Learning projects where I can give value and also keep learning new habilities.
 
