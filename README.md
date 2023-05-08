@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![portada](https://user-images.githubusercontent.com/51239155/197236033-62e22011-1724-4710-8311-3d42c1801552.png)
+  ![Hi, I'm Juan Sánchez (4)](https://user-images.githubusercontent.com/51239155/236938003-45c7354b-6c99-4201-bb95-dff177ee1f4a.png)
   
   <a href="https://www.linkedin.com/in/juasesan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
