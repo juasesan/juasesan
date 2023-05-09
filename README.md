@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Hi, I'm Juan Sánchez (4)](https://user-images.githubusercontent.com/51239155/236938003-45c7354b-6c99-4201-bb95-dff177ee1f4a.png)
+  ![Hi, I'm Juan Sánchez (11)](https://github.com/juasesan/juasesan/assets/51239155/55ea1b72-e51b-4428-8fa5-f96c561b0b27)
   
   <a href="https://www.linkedin.com/in/juasesan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,8 +16,8 @@
 ---
 
 - 💻 I am a Mechatronics Engineer from Ecuador.
-- Data Scientist junior, problem-solving using automation, team player and communication are some of the skills I am currently working into. 
-- I’m looking to collaborate on Data Science and Machine Learning projects where I can give value and also keep learning new habilities.
+- Data Science project development, problem-solving using automation, team player and communication are some of the skills I am currently working into. 
+- I love to extract value from data, using it to discover hidden information or build models for meaningful purposes.
 
 💡 My technologies
 ---
