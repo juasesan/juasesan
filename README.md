@@ -44,7 +44,9 @@ Here are some of the best projects I've made to show my skills and keep learning
 
 📊 My statistics
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juasesan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 juasesan/juasesan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
