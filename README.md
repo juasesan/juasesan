@@ -45,7 +45,7 @@ Here are some of the best projects I've made to show my skills and keep learning
 📊 My statistics
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juasesan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juasesan&size_weight=0&count_weight=1&layout=compact&theme=vision-friendly-dark&exclude_repo=wire_harness_segmentation,Programacion-Basica_Platzi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 juasesan/juasesan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
