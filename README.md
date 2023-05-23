@@ -41,6 +41,7 @@ Here are some of the best projects I've made to show my skills and keep learning
 - <a href="https://github.com/juasesan/MLP-cancer-classification">Cancer tumor classification with scikit-learn ML models.</a>
 - <a href="https://github.com/juasesan/RedFlag_analysis">Analysis of possible fraud in ecuadorian procurement procedures using K-means clustering.</a>
 - <a href="https://github.com/juasesan/Ecuador_exportations_analysis">Analysis of Ecuador exportations using public access government data.</a>
+- <a href="https://github.com/juasesan/count_object_detection">Camera multi-object detection and classes count with OpenCV and Mobilenet SSD.</a>
 
 📊 My statistics
 ---
