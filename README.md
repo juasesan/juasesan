@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Hi, I'm Juan Sánchez (11)](https://github.com/juasesan/juasesan/assets/51239155/55ea1b72-e51b-4428-8fa5-f96c561b0b27)
+  ![Github](https://github.com/juasesan/juasesan/assets/51239155/d1c152e7-6801-4ba6-8341-a2961a6c4e57)
   
   <a href="https://www.linkedin.com/in/juasesan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
