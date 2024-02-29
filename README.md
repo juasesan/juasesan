@@ -24,18 +24,20 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-green?style=for-the-badge&logo=Jupyter&logoColor=black" alt="Jupyter Badge"/>
-  <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=MySql&logoColor=white" alt="MySql Badge"/>
-  <img src="https://img.shields.io/badge/RaspberryPi-red?style=for-the-badge&logo=RaspberryPi&logoColor=white" alt="Jupyter Badge"/>
   <img src="https://img.shields.io/badge/Pytorch-white?style=for-the-badge&logo=Pytorch&logoColor=red" alt="Jupyter Badge"/>
-  <img src="https://img.shields.io/badge/Spark-blue?style=for-the-badge&logo=apachespark&logoColor=red" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=Postgresql&logoColor=white" alt="Postgresql Badge"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=blue" alt="Airflow Badge"/>
+  <img src="https://img.shields.io/badge/Spark-blue?style=for-the-badge&logo=apachespark&logoColor=red" alt="Spark Badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-green?style=for-the-badge&logo=Jupyter&logoColor=black" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-red?style=for-the-badge&logo=RaspberryPi&logoColor=white" alt="Raspberry Badge"/>
   
 </div>
 
 📝 My projects
 ---
 Here are some of the best projects I've made to show my skills and keep learning:
+- <a href="https://github.com/juasesan/ETL_movies_analysis">ETL process and analysis of movies data using Apache Airflow, SQLite and Pandas.</a>
 - <a href="https://github.com/sofia604/Transformers_Torvis">Paper project: Wind turbine fault prediction with Transformer Neural Networks.</a>
 - <a href="https://github.com/Taws-Espol/camera_recognition">Drowsiness detection system with Deep Learning using Tensorflow and OpenCV.</a>
 - <a href="https://github.com/juasesan/MLP-cancer-classification">Cancer tumor classification with scikit-learn ML models.</a>
