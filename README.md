@@ -23,12 +23,13 @@
 ---
 <div id="badges">
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/Pytorch-white?style=for-the-badge&logo=Pytorch&logoColor=red" alt="Jupyter Badge"/>
   <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=Postgresql&logoColor=white" alt="Postgresql Badge"/>
+  <img src="https://img.shields.io/badge/AmazonWebServices-red?style=for-the-badge&logo=AmazonWebServices&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Tensorflow Badge"/>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=blue" alt="Airflow Badge"/>
+  <img src="https://img.shields.io/badge/Pytorch-white?style=for-the-badge&logo=Pytorch&logoColor=red" alt="Pytorch Badge"/>
   <img src="https://img.shields.io/badge/Spark-blue?style=for-the-badge&logo=apachespark&logoColor=red" alt="Spark Badge"/>
+  <img src="https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=blue" alt="Airflow Badge"/>
   <img src="https://img.shields.io/badge/Jupyter-green?style=for-the-badge&logo=Jupyter&logoColor=black" alt="Jupyter Badge"/>
   <img src="https://img.shields.io/badge/RaspberryPi-red?style=for-the-badge&logo=RaspberryPi&logoColor=white" alt="Raspberry Badge"/>
   
