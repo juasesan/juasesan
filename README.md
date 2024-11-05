@@ -15,9 +15,9 @@
 🧑🏽 About me:
 ---
 
-- 💻 I am a Mechatronics Engineer from Ecuador.
+- 💻 I am a Mechatronics Engineer from Ecuador specialized in delivering impactful machine learning solutions across various industries, including renewable energy, cybersecurity, and entertainment.
 - Data Science project development, problem-solving using automation, team player and communication are some of the skills I am currently working into. 
-- I love to extract value from data, using it to discover hidden information or build models for meaningful purposes.
+- I thrive on extracting value from data, discovering hidden insights through data visualization, and building models to solve meaningful challenges. 
 
 💡 My technologies
 ---
