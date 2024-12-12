@@ -1,6 +1,9 @@
 <div align="center">
 
-  ![Github](https://github.com/juasesan/juasesan/assets/51239155/d1c152e7-6801-4ba6-8341-a2961a6c4e57)
+  👋 Hi! Welcome to my github
+  ---
+  
+  ![image](https://github.com/user-attachments/assets/c684464e-9523-4e63-b2c6-492f542cc1cf)
   
   <a href="https://www.linkedin.com/in/juasesan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,16 +24,18 @@
 
 💡 My technologies
 ---
-<div id="badges">
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
+<div id="badges", align="center">
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=Postgresql&logoColor=white" alt="Postgresql Badge"/>
   <img src="https://img.shields.io/badge/AmazonWebServices-red?style=for-the-badge&logo=AmazonWebServices&logoColor=white" alt="AWS Badge"/>
   <img src="https://img.shields.io/badge/Tensorflow-white?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Tensorflow Badge"/>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/Pytorch-white?style=for-the-badge&logo=Pytorch&logoColor=red" alt="Pytorch Badge"/>
-  <img src="https://img.shields.io/badge/Spark-blue?style=for-the-badge&logo=apachespark&logoColor=red" alt="Spark Badge"/>
-  <img src="https://img.shields.io/badge/airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=blue" alt="Airflow Badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-green?style=for-the-badge&logo=Jupyter&logoColor=black" alt="Jupyter Badge"/>
+  <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=Pytorch&logoColor=white" alt="Pytorch Badge"/>
+  <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker Badge"/>
+  <img src="https://img.shields.io/badge/Kubernetes-red?style=for-the-badge&logo=Kubernetes&logoColor=blue" alt="Docker Badge"/>
+  <img src="https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark&logoColor=red" alt="Spark Badge"/>
+  <img src="https://img.shields.io/badge/airflow-blue?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow Badge"/>
   <img src="https://img.shields.io/badge/RaspberryPi-red?style=for-the-badge&logo=RaspberryPi&logoColor=white" alt="Raspberry Badge"/>
   
 </div>
